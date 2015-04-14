@@ -10,7 +10,7 @@ public class Main {
 		// Instancia classe Random
 		Random random = new Random();
 
-		// Tamanho aleatório entre 1 e 10
+		// Tamanho da palavra aleatório entre 1 e 10
 		int tamanhoPalavra = random.nextInt(10) + 1;
 
 		// Onde ira armazenar a palavra
